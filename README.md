@@ -7,7 +7,7 @@ SOLTRADE AI is an advanced **Solana-powered AI trading agent** that seamlessly i
 
 ---
 
-## 💫 **What Makes SOLTRADE AI Special?**  
+## 💫 **What Makes SOLTRADE AI Special? **  
 
 Unlike typical trading bots, **SOLTRADE AI** is a **Smart Onchain Trading Intelligence Agent** (**S.O.T.I.A**) with:  
 
